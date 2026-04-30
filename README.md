@@ -21,5 +21,5 @@ Computer Science student at Sonoma State University focused on systems programmi
 
 ## Get in touch
 
-- Email: your.email@example.com
-- LinkedIn: [linkedin.com/in/parkertennier](https://www.linkedin.com/in/parkertennier)
+- Email: tennierp@sonoma.edu
+- LinkedIn: [linkedin.com/in/parkertennier]([https://www.linkedin.com/in/parkertennier](https://www.linkedin.com/in/parker-tennier-6b123a37b/))
