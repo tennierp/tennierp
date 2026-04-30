@@ -1,16 +1,25 @@
-## Hi there 👋
+# Parker Tennier
 
-<!--
-**tennierp/tennierp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Sonoma State University focused on systems programming, data structures, and algorithm design. I enjoy building things from the ground up in C++ — compression pipelines, search algorithms, and low-level work.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Strengthening my fundamentals in C++ and data structures
+- Exploring algorithm design through end-to-end projects (encoders, solvers, parsers)
+- Looking for **summer 2026 software engineering internships**
+
+## Featured projects
+
+- **[huffman-trees](https://github.com/tennierp/huffman-trees)** — End-to-end encoder/decoder pipeline for word-level Huffman coding, written in C++.
+- **[maze-solver](https://github.com/tennierp/maze-solver)** — Iterative, stack-based backtracking maze solver in C++.
+- **[recursive-lists](https://github.com/tennierp/recursive-lists)** — Custom recursive list ADT exploring recursion patterns in C++.
+
+## Tech I work with
+
+**Languages:** C++, Python, Java
+**Tools:** Git, GNU Make, GDB, Linux
+
+## Get in touch
+
+- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/parkertennier](https://www.linkedin.com/in/parkertennier)
