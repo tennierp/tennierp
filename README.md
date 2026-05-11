@@ -16,8 +16,8 @@ Computer Science student at Sonoma State University focused on systems programmi
 
 ## Tech I work with
 
-**Languages:** C++, Java  
-**Tools:** Git, GNU Make, GDB, Linux
+**Languages:** C++, Java, Relation Database Management
+**Tools:** Git, GNU Make, GDB, Linux, SQL
 
 ## Get in touch
 
